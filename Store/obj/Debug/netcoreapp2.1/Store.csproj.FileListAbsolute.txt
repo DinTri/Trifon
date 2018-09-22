@@ -1,0 +1,13 @@
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\bin\Debug\netcoreapp2.1\Store.deps.json
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\bin\Debug\netcoreapp2.1\Store.runtimeconfig.json
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\bin\Debug\netcoreapp2.1\Store.runtimeconfig.dev.json
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\bin\Debug\netcoreapp2.1\Store.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.RazorAssemblyInfo.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.RazorAssemblyInfo.cs
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.AssemblyInfo.cs
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.RazorTargetAssemblyInfo.cache
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\bin\Debug\netcoreapp2.1\Store.pdb
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.dll
+C:\Users\Trifon\Documents\Visual Studio 2017\Projects\Store\Store\obj\Debug\netcoreapp2.1\Store.pdb
